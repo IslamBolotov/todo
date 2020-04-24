@@ -1,0 +1,31 @@
+
+#main__block{
+    width: 40%;
+}
+
+#header{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 100%;
+}
+
+.ff{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.text{
+    color: #ffffff;
+    text-align: center;
+}
+
+#inp{
+    width: 60%;
+    margin-right: 10%;
+}
+
+#newBlock{
+    justify-content: center;
+}
